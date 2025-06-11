@@ -1,5 +1,6 @@
 # LeetCode_Problems
-My takes on different level leetcode problems
+-My takes on different level leetcode problems
+-There re some problems that i solved before creating this repo and i didn t add them here
 ## Structure
 - `easy/` - Easy problems
 - `medium/` - Medium problems
@@ -10,6 +11,10 @@ My takes on different level leetcode problems
 # Easy
 
 Binary Tree Inorder Traversal -> https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/6581871/binary-tree-inorder-traversal-by-blackco-ikyg/
+
+Same Tree -> https://leetcode.com/problems/same-tree/solutions/6833751/same-tree-by-blackcounterhd-3kei/
+
+Invert Binary Tree -> https://leetcode.com/problems/invert-binary-tree/solutions/6833785/invert-binary-tree-by-blackcounterhd-ucgk/
 
 # Medium
 
