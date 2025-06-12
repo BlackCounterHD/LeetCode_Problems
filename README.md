@@ -30,6 +30,8 @@ Path Sum 2 -> https://leetcode.com/problems/path-sum-ii/solutions/6601342/path-s
 
 Path Sum 3 -> https://leetcode.com/problems/path-sum-iii/solutions/6601361/path-sum-3-by-blackcounterhd-l666/
 
+Binary Tree Level Order Traversal 2 ->https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+
 # Hard
 
 Median Of Two Sorted Arrays -> https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/6587441/median-of-two-sorted-arrays-by-blackcoun-it0v/
