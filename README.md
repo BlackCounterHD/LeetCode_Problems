@@ -30,7 +30,11 @@ Path Sum 2 -> https://leetcode.com/problems/path-sum-ii/solutions/6601342/path-s
 
 Path Sum 3 -> https://leetcode.com/problems/path-sum-iii/solutions/6601361/path-sum-3-by-blackcounterhd-l666/
 
-Binary Tree Level Order Traversal 2 ->https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+Binary Tree Level Order Traversal 2 -> https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+
+Reverse Linked List 2 -> https://leetcode.com/problems/reverse-linked-list-ii/solutions/7019111/reverse-linked-list-ii-by-blackcounterhd-75j8/
+
+Partition List -> https://leetcode.com/problems/partition-list/solutions/7019052/partition-list-by-blackcounterhd-3gba/
 
 # Hard
 
